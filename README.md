@@ -315,7 +315,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues**: Open an issue [here]([https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters/issues](https://github.com/Ezz-Kamel/E-Commerce-Site/issues))
+- **GitHub Issues**: Open an issue [here](https://github.com/Ezz-Kamel/E-Commerce-Site/issues)
 - **Email**:ezz01143394446@gmail.com 📧
 
 ## 🧑‍🤝‍🧑 **Meet the Team**
