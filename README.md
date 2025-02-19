@@ -337,7 +337,7 @@ This project is the result of collaborative work by an amazing team! 👏
 - **Mohamed ahmed Mohamed Gaber**  
   📧 meshogaber1056@gmail.com
 
-- **Mariam Ashraf **
+- **Mariam Ashraf**
   📧 mariam2052003@gmail.com
 ---
 
