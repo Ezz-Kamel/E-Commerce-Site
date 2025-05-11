@@ -1,6 +1,6 @@
-# **E-Commerce-Site**
+# **Demoblaze**
 
-Automated testing framework for LiteCart, utilizing Selenium, Postman, and JMeter to validate UI interactions, core functionalities, payment processing, and overall system performance on web application (http://demo.litecart.net/) . Covers end-to-end testing, including add-to-cart workflows, checkout validation, API response verification, and load testing to ensure a seamless user experience, platform stability, and high reliability under varying traffic conditions. 🚀
+Automated testing framework for LiteCart, utilizing Selenium, Postman, and JMeter to validate UI interactions, core functionalities, payment processing, and overall system performance on web application (https://www.demoblaze.com/) . Covers end-to-end testing, including add-to-cart workflows, checkout validation, API response verification, and load testing to ensure a seamless user experience, platform stability, and high reliability under varying traffic conditions. 🚀
 
 ## 🏗️ **Project Structure**
 
